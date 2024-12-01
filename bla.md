@@ -6,4 +6,4 @@ blablbalba
 
 branch_7 addition 
 
-branch_7_1 addition 
+branch_7_1 addition kai twra tha kanw pull 
