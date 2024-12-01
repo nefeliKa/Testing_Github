@@ -3,7 +3,8 @@ Testing_Github
 
 -test write something from branch_1
 
-Some stuff from J!
+Some things from J!
 
 Some other stuff
-My name is Bla
+My name is Bla.
+
